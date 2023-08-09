@@ -1,0 +1,32 @@
+{
+    "students":[
+        {
+            "name": "Michael Rao", 
+            "href": "https://www.aplu.org/wp-content/uploads/mrheadshot.jpeg"
+        },
+        {
+            "name": "Kyle Perry", 
+            "href": "https://media.licdn.com/dms/image/C4D03AQFp1GrOhstTEg/profile-displayphoto-shrink_800_800/0/1542412242574?e=2147483647&v=beta&t=TCKj8B-lEuvEYR6cOapDO0iNF6i9neDI7nj400rXMgc"
+        },
+        {
+            "name": "John Leonard", 
+            "href": "https://media-speakerfile-pre.s3.amazonaws.com/images_profile_galleries/784be93311574bdb4d63312295904fe71481836367_l.jpg"
+        },
+        {
+            "name": "Liam Stewart",
+            "href": "https://ui-avatars.com/api/?name=Liam+Stewart&length=10&size=512&font-size=0.1875&background=9b870c&color=ffffff"
+        },
+        {
+            "name": "Isabella Cook",
+            "href": "https://ui-avatars.com/api/?name=Isabella+Cook&length=10&size=512&font-size=0.1875&background=9b870c&color=ffffff"
+        },
+        {
+            "name": "Noah Turner",
+            "href": "https://ui-avatars.com/api/?name=Noah+Turner&length=10&size=512&font-size=0.1875&background=9b870c&color=ffffff"
+        },
+        {
+            "name": "CMSC508 Student",
+            "href": "https://ui-avatars.com/api/?name=CMSC508&length=10&size=512&font-size=0.1875&background=9b870c&color=ffffff"
+        }    
+    ]
+}
